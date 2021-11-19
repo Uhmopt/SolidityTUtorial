@@ -1,2 +1,2 @@
-# SolidityTUtorial
+# SolidityTutorial
 smart contract, Solidity
